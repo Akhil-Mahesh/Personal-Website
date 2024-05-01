@@ -1,5 +1,6 @@
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=3000&pause=1000&color=00EEFF&center=true&vCenter=true&random=false&width=435&lines=Simple+Portfolio+Website;Created+by+RhythmusByte)](https://git.io/typing-svg)
 
 > A simple portfolio website
