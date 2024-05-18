@@ -1,9 +1,13 @@
+> 🚨 Important Notice: This repository is no longer maintained and has been completely scrapped. However, you can still view the files.
+
+---
+
 <div align="center">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=3000&pause=1000&color=00EEFF&center=true&vCenter=true&random=false&width=435&lines=Simple+Portfolio+Website;Created+by+RhythmusByte)](https://git.io/typing-svg)
 
-> A simple portfolio website
+ A simple portfolio website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e990d796-ea9e-4359-ba7f-5e6d03c9e788/deploy-status?style=flat-square )](https://app.netlify.com/sites/akhilmahesh/deploys)
 ![GitHub License](https://img.shields.io/github/license/RhythmusByte/Personal-Website?style=flat-square&labelColor=%23000&color=royalblue)
